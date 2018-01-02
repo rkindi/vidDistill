@@ -1,5 +1,5 @@
 # vidDistill - Automated Video Summarization Using Captions
-## Try it out at vid-distill.herokuapp.com!
+## Try it out at [vid-distill.herokuapp.com](https://vid-distill.herokuapp.com)!
 
 Things you'll need to do to get this project set up locally:
 1. Specify a secret key in config.py. (Make sure to add config.py to your .gitignore).
