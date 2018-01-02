@@ -6,8 +6,9 @@ Things you'll need to do to get this project set up locally:
 2. Install requirements from requirements.txt.
 3. Install and start postgres.
 4. Set up environment variables:
-
-...a. DATABASE_URL (the URL for where your database is stored, whether that's local or )
-...b. APP_SETTINGS (should be either config.DevelopmentConfig or config.ProductionConfig)
+	
+    a. DATABASE_URL (the URL for where your database is stored, whether that's local or with Heroku)
+    
+    b. APP_SETTINGS (should be either config.DevelopmentConfig or config.ProductionConfig)
 
 5. Download the NLTK components specified in nltk.txt
