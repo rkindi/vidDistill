@@ -28,6 +28,6 @@ requests==2.18.4
 simplegeneric==0.8.1
 six==1.11.0
 tornado==3.1.1
-urllib3==1.22
+urllib3==1.26.5
 wheel==0.24.0
 youtube-dl==2017.11.15
