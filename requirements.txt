@@ -6,7 +6,7 @@ Pillow==2.3.0
 SQLAlchemy==1.1.15
 Werkzeug==0.13
 breadability==0.1.20
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==2.2.1
 click==6.7
 colorama==0.2.5
